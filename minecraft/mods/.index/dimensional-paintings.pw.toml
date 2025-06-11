@@ -1,0 +1,16 @@
+filename = 'Dimensional-Paintings-1.20.1-2.1.1.jar'
+name = 'Dimensional Paintings'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '12aecfdc666f26473b1598efb8e2886144ad43cd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6034814
+project-id = 480500

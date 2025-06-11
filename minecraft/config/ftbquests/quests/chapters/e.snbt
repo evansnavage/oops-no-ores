@@ -1,0 +1,44 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "e"
+	group: ""
+	icon: "minecraft:oak_sapling"
+	id: "348F10BE9DFE81BD"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "09A5828685CD08A6"
+			tasks: [{
+				id: "06350DEC86C06A4A"
+				title: "Open the Quest Book"
+				type: "checkmark"
+			}]
+			title: "Welcome"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["09A5828685CD08A6"]
+			description: [
+				"Theres a little pencil in the bottom right to toggle edit mode."
+				""
+				"Huge hacks:"
+				"Right click for creation modal"
+				"Middle click and drag to select [Also Middle Click Select + Right Click on quest is life changing for setting dependencies]"
+				"Quests have a bunch of metadata that displays &o&l&anicely&r&r&r"
+			]
+			id: "3AE123177C7E8023"
+			subtitle: "For Thinking!"
+			tasks: [{
+				id: "7B4F6CD4DDB7019F"
+				title: "Scratchpad"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+	]
+	title: "Welcome"
+}

@@ -1,0 +1,16 @@
+filename = 'MysticalAgriculture-1.20.1-7.0.20.jar'
+name = 'Mystical Agriculture'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '92ff2ee31b0e6214ff257d75c5eb9b122fa4da3ca467a17fee130b7679154fdd65bebe6f4a6e5719398f18b2a2e794e09e6c7fee5893d2f75185d2228c1100ab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/C95ReXie/versions/O3dz79wq/MysticalAgriculture-1.20.1-7.0.20.jar'
+
+[update.modrinth]
+mod-id = 'C95ReXie'
+version = 'O3dz79wq'
