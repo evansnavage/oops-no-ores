@@ -195,7 +195,6 @@
 				item: "minecraft:lapis_lazuli"
 				type: "item"
 			}]
-			title: "Automatable Source Engine Precursor"
 			x: -3.5d
 			y: -2.5d
 		}
@@ -222,9 +221,8 @@
 				item: "minecraft:amethyst_shard"
 				type: "item"
 			}]
-			title: "Findable Source Gem Precursor"
 			x: -5.5d
-			y: -8.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["02D47C8EC7BB61E6"]
